@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laugmaug
-- 👀 I’m interested in Cybersecurity, algorithmic trading & solving problems
+- 👀 I’m interested in Cybersecurity, Software Development, Algorithmic Trading & Solving Problems
 - 🌱 I’m currently learning MQL5 & PHP...
 - 💞️ I’m looking to collaborate on anything that involves financial trading, project management, software development or solutions architecture... Or anything technologically challenging
 - 📫 How to reach me peter.radebe22@gmail.com ...

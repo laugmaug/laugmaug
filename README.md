@@ -5,6 +5,7 @@
 - 📫 How to reach me via email:    peter.radebe22@gmail.com ...
 -                    via LinkedIn: https://linkedin.com/in/jabez-radebe-306931192
 -                    via Github:   https://github.com/laugmaug
+-                    via Twitter:  https://twitter.com/laugmaug1
 
 <!---
 laugmaug/laugmaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
